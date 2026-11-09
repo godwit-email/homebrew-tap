@@ -1,13 +1,13 @@
 cask "godwit" do
-  version "1.30.0"
+  version "1.31.0"
 
   on_arm do
-    url "https://dl.godwit.email/godwit-1.30.0-arm64.dmg"
-    sha256 "4076aeccb0fa4b5d1463096bb99f6726e7452308a51c509cea230d3240afc5ee"
+    url "https://dl.godwit.email/godwit-1.31.0-arm64.dmg"
+    sha256 "f56ff8dd7db7b22bc798cb26a6438887430f3f27cdb6bac00f9ca14f88133738"
   end
   on_intel do
-    url "https://dl.godwit.email/godwit-1.30.0-amd64.dmg"
-    sha256 "a2f7ae22c76a3eb62b3643ee9d04724e45f226aa1d6e090c35b50d731d2616d2"
+    url "https://dl.godwit.email/godwit-1.31.0-amd64.dmg"
+    sha256 "c65d6181304efd1ece3f3340d34df2b2a36b3ab745a8edf8de1bc0ac1e685f21"
   end
 
   name "Godwit"
